@@ -1,12 +1,16 @@
 .form-group {
-	width: 600px;
+	width: 400px;
 }
 #messageBox {
-	height: 200px; width: 500px; line-height: 5;
+	/*height: 200px; width: 400px;*/ /*line-height: 10;*/
 }
 h2 {
 	background-color: #4aaaa5;
 }
 .container {
 	background-color: gray;
+
+}
+.contact {
+	float: right;
 }
